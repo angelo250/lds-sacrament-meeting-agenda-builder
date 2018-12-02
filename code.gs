@@ -88,7 +88,7 @@ function createSacramentMeetingAgenda() {
       body.replaceText("##closing_hymn##", closingHymn);
       
       //share w counselors, exec secretary
-      //doc.addEditors(["jshvernon@gmail.com", "wjandreas2@hotmail.com", "murrayexec@gmail.com"]);
+      //doc.addEditors([]);
       
       return; //found, no need to continue. 
     }    
