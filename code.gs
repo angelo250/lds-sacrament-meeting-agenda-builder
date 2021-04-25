@@ -2,7 +2,7 @@ function createSacramentMeetingAgenda() {
   //from today's date, get the correct row in the sheet
   //extract columns to fields in the docs template
   
-  var sourceSheetId = "1Uwf9zLT8egb0-Vz6z9wz8ssqcTG16VLcuxkFUlxf1g4", //the sheet Id
+  var sourceSheetId = "<your_google_sheet_id>", //the sheet Id
       sourceRange = "A2:M2000", //the range of all topics
       
   //template 
